@@ -296,7 +296,7 @@ Goals:
 
 (vi) Incident reporting.
 
-**Additional Persona: Customer**
+**Additional Persona: Customer.**
 
 Although the PRD focuses mainly on logistics managers and drivers, the customer is an important secondary stakeholder.
 
@@ -360,7 +360,7 @@ The Figma overview shows a collection of mobile-oriented screens for different u
 
 ## FUNCTIONAL REQUIREMENT
 
-**Authentication and Account Management**
+**Authentication and Account Management.**
 
 The platform should allow users to:
 
@@ -378,7 +378,7 @@ The platform should allow users to:
 
 (vii) Contact customer support for restricted changes.
 
-**Driver Registration Data**
+**Driver Registration Data.**
 
 The prototype and PRD show fields such as:
 
